@@ -14,6 +14,7 @@ The consequences of unrestricted file upload can vary, including complete, execu
 9.	Escape special characters in situations where using a secure API method is not feasible.
 
 **Reference:**
+
 https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html
 
 https://owasp.org/www-community/vulnerabilities/Unrestricted_File_Upload
